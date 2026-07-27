@@ -28,3 +28,5 @@ O site apresenta um design moderno e acolhedor, com seções de cardápio, infor
 1. Clone este repositório:
 ```bash
 git clone https://github.com/mbarros-ux/Cafeteria.git
+```
+ 2. Abra o arquivo ```index.html``` em seu navegador.
